@@ -53,7 +53,7 @@ Which customers generate the most revenue, how many of them keep coming back, an
 
 ```
 ├── notebooks/     # retention_analysis.ipynb
-├── data/          
+├── data/          # (raw dataset not included; see the link above)
 └── README.md
 ```
 
